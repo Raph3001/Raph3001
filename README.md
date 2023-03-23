@@ -2,7 +2,6 @@
 - 🔭 I’m currently working on my POS-System
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: discord: Raph3001#5558
-- 😄 Pronouns: He or She I don't care
 
 <!--
 **Raph3001/Raph3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
