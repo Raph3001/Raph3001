@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my POS-System
+- 🔭 I’m currently gaming
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me: discord: Raph3001#5558
 
