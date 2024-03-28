@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently gaming
 - 🌱 I’m currently learning Java and Python
-- 📫 How to reach me: discord: Raph3001#5558
+- 📫 How to reach me: WeChat: exid_66pd5lvxe9eu
 
 <!--
 **Raph3001/Raph3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
